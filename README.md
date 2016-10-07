@@ -24,7 +24,7 @@ Ou seja, a resolução da prova 1 de MA211 coordenada do segundo semestre de 201
   > `/^([a-z]{1,2}\d{3})-([a-z\d]{2})-(\d{4})s(\d)(\w*)-?([^\.]*)\.(.*)$/`
 
   Além disso o caminho completo deve ser:
-  > `/^([a-z]{1,2})\/\1(\d{3})\/([^\.]*)\/?\1\2-([a-z\d]{2})-(\d{4})s(\d)(\w*)-?\3\.(.*)$/`
+  > `/^([a-z]{1,2})\/\1(\d{3})\/([^\.]*)\/?\1\2-([a-z\d]{2})-(\d{4})s(\d)(\w*)-?\3-?([^\.]*)\.(.*)$/`
 </details>
 
 
